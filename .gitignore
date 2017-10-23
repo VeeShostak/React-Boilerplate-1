@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+
+# distribution, compiled code library
+public/dist/
+
+# firebase db environment
+.env.test
+.env.development
+
+
+
+# === Start Other ===
+# Folder view configuration files
+.DS_Store
+**/.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+# === End Other ===
